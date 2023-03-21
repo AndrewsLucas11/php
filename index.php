@@ -1,4 +1,4 @@
 <?php 
-echo 'Bem Vindo!!!'
+echo 'Bem vindo!'
 
 ?>
